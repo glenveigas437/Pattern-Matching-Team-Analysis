@@ -11,10 +11,11 @@ The [Goals.csv](https://github.com/glenveigas437/Pattern-Matching-Team-Analysis/
 
 ![Goals.csv Snippet](https://user-images.githubusercontent.com/31877827/116814101-b9ff3b80-ab74-11eb-9722-3f03b57941a0.png)
 
-
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
+Key Points: 
+  * if there is just one player in the row, then the goal scored was not a team effort
+  * The penultimate name in the row is of the assist provider
+  * The last name in the row is of the goal scorer
+ 
 
 
 
