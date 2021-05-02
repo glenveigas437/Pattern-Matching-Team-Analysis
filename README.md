@@ -10,6 +10,8 @@ Apriori Algorithm is basically used to find the association in between 2 items, 
 The [Goals.csv](https://github.com/glenveigas437/Pattern-Matching-Team-Analysis/blob/main/Goals.csv) file contains Goal contributors ranging upto 5 touches max for a goal.
 
 ![Goals.csv Snippet](https://user-images.githubusercontent.com/31877827/116814101-b9ff3b80-ab74-11eb-9722-3f03b57941a0.png)
+
+
 Markup : * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
