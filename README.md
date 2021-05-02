@@ -7,7 +7,7 @@ Apriori Algorithm is basically used to find the association in between 2 items, 
 
 <h3>How did I use Patten Matching in Football Analytics?</h3>
 
-The [Goals.csv](https://github.com/glenveigas437/Pattern-Matching-Team-Analysis/blob/main/Goals.csv) file contains Goal contributors ranging upto 5 touches max for a goal.
+Dataset: The [Goals.csv](https://github.com/glenveigas437/Pattern-Matching-Team-Analysis/blob/main/Goals.csv) file contains Goal contributors ranging upto 5 touches max for a goal.
 
 ![Goals.csv Snippet](https://user-images.githubusercontent.com/31877827/116814101-b9ff3b80-ab74-11eb-9722-3f03b57941a0.png)
 
@@ -15,6 +15,8 @@ Itemizing Goals.csv:
   * if there is just one player in the row, then the goal scored was not a team effort
   * The penultimate name in the row is of the assist provider
   * The last name in the row is of the goal scorer
+
+
  
 
 
