@@ -16,6 +16,12 @@ Itemizing Goals.csv:
   * The penultimate name in the row is of the assist provider
   * The last name in the row is of the goal scorer
 
+<h2>Steps Involved in building this system</h2>
+
+<h3>* Step 1: Calculating the goal contribution frequency of each player</h3> 
+![Frequeny of Goal Contribution of each player](https://user-images.githubusercontent.com/31877827/116843523-d2676880-abfd-11eb-8e3e-d4839d0dbc4c.png)
+
+<h3>* Step 
 
  
 
