@@ -38,8 +38,8 @@ Formula to calculate Support: <h3>Support = (Goal Contribution Frequency of the 
 ![Players with atleast 5% contribution](https://user-images.githubusercontent.com/31877827/116846786-c502ac00-ac06-11eb-8192-2f957cf24c14.png)
 
 <h3>Step 5: Checking Combination Support For 2 Players</h3>
-So, this step determines the contribution of a patnership
-There might be cases where Player(X) has assisted Player(Y) 10 times and Player(Y) has assisted Player(X) 5 times so the unideirectional support will be different compared to the holistic support of these combinations
+So, this step determines the contribution of a partnership
+There might be cases where Player(X) has assisted Player(Y) 10 times and Player(Y) has assisted Player(X) 5 times so the unidirectional support will be different compared to the holistic support of these combinations
 
 ![Player Partnership Support](https://user-images.githubusercontent.com/31877827/116847117-83becc00-ac07-11eb-98ad-e97aade850f5.png)
 
@@ -49,7 +49,7 @@ After filtering
 <h3>Step 6: Finding Confidence</h3>
 Confidence is the measure of how much impact the first player has on the partnership
 
-Formula for Confidence: <h4>Confidence: = (Support of Duo(A1, A2)/Support of Player(A1))*100
+Formula for Confidence: <h4>Confidence: = (Support of Duo(A1, A2)/Support of Player(A1))*100</h4>
 
 I have set the confidence to be 10
 
