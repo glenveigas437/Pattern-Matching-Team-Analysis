@@ -93,6 +93,11 @@ Gameweek 38 vs Wolves
 -Alex Telles, Juan Mata, Daniel James, Anthony Elanga
 
 
+### Goal Contribution from every position
+![image](https://user-images.githubusercontent.com/31877827/127294325-2e3ac004-f5be-4626-93b7-31107bf2edc5.png)
 
+
+It is evident that most of the threat to the opposition team comes from the Central Attacking Midfielders, Strikers and Left Wingers.
+The Right Wing Position has less than 1% Goal Contribution(Finally!! United have got Jadon Sancho to resolve this Yeaaay!)
 
 
