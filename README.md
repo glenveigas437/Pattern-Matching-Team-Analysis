@@ -67,6 +67,30 @@ So, these are the key players the opposition should focus on, evidently Bruno Fe
 
 The first Update was made on 2nd May 2021 on the eve of Gameweek 34 where Manchester United would host Liverpool, I'll be updating the same as the season progresses and reaches matchweek 38.
 
+[Edit]: Post Gameweek 34 I Have updated the ```Goals.csv``` and ```Player-Analysis-Apriori.ipynb``` file.
+I have also added Lift just to check the likelihood of each player partnership combining to contribute towards goals
+
+![image](https://user-images.githubusercontent.com/31877827/127279751-402832b7-364e-4f5d-9533-b27b239472ed.png)
+
+
+Results
+Gameweek 34 vs Liverpool
+-Bruno Fernandes, Edinson Cavani and Marcus Rashford combined to score vs Liverpool.
+-Aaron wan Bissaka, Bruno Fernandes linked up to score one
+
+Gameweek 35 vs Aston Villa
+-Bruno Fernandes, Aaron wan Bissaka, Mason Greenwood
+-Fred, Marcus Rashford, Edinson Cavani
+
+Gameweek 36 vs Leicester
+-Amad Traore, Mason Greenwood
+
+Gameweek 37 vs Fulham
+-David De Gea, Bruno Fernandes, Edinson Cavani 
+
+Gameweek 38 vs Wolves
+-Juan Mata
+-Alex Telles, Juan Mata, Daniel James, Anthony Elanga
 
 
 
